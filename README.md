@@ -6,7 +6,7 @@ Getting Started:
 1. Sign up for a open weather api account.
 https://home.openweathermap.org/users/sign_up
 
-2. After signing browse to api keys page.
+2. After signing in, browse to api keys page.
 https://home.openweathermap.org/api_keys
 
 3. Run the tests via Maven.  Pass your api key from step 2 as an argument to maven. Remove and replace {your api key from open weather api goes here} with your api key.
